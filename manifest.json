@@ -15,5 +15,10 @@
                 "ft-reader.js"
             ]
         }
-    ]
+    ],
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "ft-reader@ture.dev"
+        }
+    }
 }
